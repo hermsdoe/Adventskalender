@@ -1,2 +1,2 @@
 # Adventskalender
- Adventskalender für Anne. DEr Kalender ist passwortgeschützt.
+ Adventskalender für Anne. Der Kalender ist passwortgeschützt.
